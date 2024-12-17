@@ -1,2 +1,0 @@
-# ashot-store
- 
